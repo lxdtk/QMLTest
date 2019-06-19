@@ -1,4 +1,4 @@
-import QtQuick 2.9
+﻿import QtQuick 2.9
 import QtQuick.Window 2.2
 
 Window {
@@ -7,3 +7,4 @@ Window {
     height: 480
     title: qsTr("Hello World")
 }
+hello world
